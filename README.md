@@ -1,1 +1,3 @@
-# Taller1ComputacionP
+# Taller1ComputacionParalela
+
+#MetododenewtonRaphson
